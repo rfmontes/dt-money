@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-02-16T16:21:42.993Z"
+    },
+    {
+      "id": 2,
+      "description": "Cinema",
+      "type": "outcome",
+      "category": "Diversão",
+      "price": 75,
+      "createdAt": "2023-02-15T23:40:42.993Z"
+    },
+    {
+      "description": "Notebook Nitro 5",
+      "price": 4650,
+      "category": "Utilidade",
+      "type": "outcome",
+      "createdAt": "2023-02-21T20:25:16.115Z",
+      "id": 3
+    },
+    {
+      "description": "Mercado",
+      "price": 952,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-02-21T20:43:06.347Z",
+      "id": 4
+    },
+    {
+      "description": "Pizza",
+      "price": 65,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-02-21T20:56:36.918Z",
+      "id": 5
+    },
+    {
+      "description": "Feira",
+      "price": 75,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-02-22T14:10:27.590Z",
+      "id": 6
+    }
+  ]
+}
